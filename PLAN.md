@@ -6,7 +6,7 @@
 - src/ package structure
 - requirements.txt
 
-## Step 2: Milestone Decomposer ⬜
+## Step 2: Milestone Decomposer ✅ [DONE — PR #1, 2026-03-27]
 - `src/decompose.py`: `MilestoneDecomposer` → `List[Milestone]`
 - Task → list of verifiable subgoals
 - Unit tests
