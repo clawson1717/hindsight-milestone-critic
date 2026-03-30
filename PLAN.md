@@ -11,12 +11,12 @@
 - Task → list of verifiable subgoals
 - Unit tests
 
-## Step 3: Evidence Collector ⬜
+## Step 3: Evidence Collector ✅ [DONE — PR #2, 2026-03-30]
 - `src/evidence.py`: `EvidenceCollector`
 - Extract supporting evidence for each milestone from trajectory
 - Structured evidence format
 
-## Step 4: Milestone Critic ⬜
+## Step 4: Milestone Critic ✅ [DONE — PR #3, 2026-03-30]
 - `src/critic.py`: `MilestoneCritic` (OS-Themis style)
 - Verdict per milestone: pass/fail/uncertain
 - Boundary enforcement layer (Box Maze)
