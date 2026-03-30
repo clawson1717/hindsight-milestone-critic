@@ -70,9 +70,9 @@ Task Input
 | Step | Description | Status |
 |------|-------------|--------|
 | 1 | Project scaffolding | ✅ [DONE] |
-| 2 | Milestone Decomposer | ⬜ |
-| 3 | Evidence Collector | ⬜ |
-| 4 | Milestone Critic (OS-Themis) | ⬜ |
+| 2 | Milestone Decomposer | ✅ [DONE] |
+| 3 | Evidence Collector | ✅ [DONE] |
+| 4 | Milestone Critic (OS-Themis) | ✅ [DONE] |
 | 5 | Hindsight Experience Store | ⬜ |
 | 6 | Hindsight-Aware Policy | ⬜ |
 | 7 | Integration Loop | ⬜ |
