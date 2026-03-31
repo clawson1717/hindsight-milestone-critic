@@ -12,6 +12,7 @@ from src.critic import (
 from src.decompose import Milestone, MilestoneDecomposer
 from src.evidence import Evidence, EvidenceCollector
 from src.hindsight import HindsightEntry, HindsightStore
+from src.loop import HiMCALoop, LoopResult
 from src.policy import HindsightAwarePolicy, PolicyDecision
 
 __all__ = [
@@ -19,9 +20,11 @@ __all__ = [
     "BoxMazeBoundaryLayer",
     "Evidence",
     "EvidenceCollector",
+    "HiMCALoop",
     "HindsightAwarePolicy",
     "HindsightEntry",
     "HindsightStore",
+    "LoopResult",
     "Milestone",
     "MilestoneCritic",
     "MilestoneCriticResult",
