@@ -12,12 +12,14 @@ from src.critic import (
 from src.decompose import Milestone, MilestoneDecomposer
 from src.evidence import Evidence, EvidenceCollector
 from src.hindsight import HindsightEntry, HindsightStore
+from src.policy import HindsightAwarePolicy, PolicyDecision
 
 __all__ = [
     "BoundaryViolation",
     "BoxMazeBoundaryLayer",
     "Evidence",
     "EvidenceCollector",
+    "HindsightAwarePolicy",
     "HindsightEntry",
     "HindsightStore",
     "Milestone",
@@ -25,4 +27,5 @@ __all__ = [
     "MilestoneCriticResult",
     "MilestoneDecomposer",
     "MilestoneVerdict",
+    "PolicyDecision",
 ]

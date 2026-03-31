@@ -73,8 +73,8 @@ Task Input
 | 2 | Milestone Decomposer | ✅ [DONE] |
 | 3 | Evidence Collector | ✅ [DONE] |
 | 4 | Milestone Critic (OS-Themis) | ✅ [DONE] |
-| 5 | Hindsight Experience Store | ⬜ |
-| 6 | Hindsight-Aware Policy | ⬜ |
+| 5 | Hindsight Experience Store | ✅ [DONE] |
+| 6 | Hindsight-Aware Policy | ✅ [DONE] |
 | 7 | Integration Loop | ⬜ |
 | 8 | CLI Interface | ⬜ |
 | 9 | Integration Tests | ⬜ |
