@@ -11,12 +11,15 @@ from src.critic import (
 )
 from src.decompose import Milestone, MilestoneDecomposer
 from src.evidence import Evidence, EvidenceCollector
+from src.hindsight import HindsightEntry, HindsightStore
 
 __all__ = [
     "BoundaryViolation",
     "BoxMazeBoundaryLayer",
     "Evidence",
     "EvidenceCollector",
+    "HindsightEntry",
+    "HindsightStore",
     "Milestone",
     "MilestoneCritic",
     "MilestoneCriticResult",
