@@ -21,12 +21,12 @@
 - Verdict per milestone: pass/fail/uncertain
 - Boundary enforcement layer (Box Maze)
 
-## Step 5: Hindsight Experience Store ⬜
+## Step 5: Hindsight Experience Store ✅ [DONE — PR #4, 2026-03-31]
 - `src/hindsight.py`: `HindsightStore` (HeRL-style)
 - Failed milestone → stored with rubric context
 - Efficient retrieval for new tasks
 
-## Step 6: Hindsight-Aware Policy ⬜
+## Step 6: Hindsight-Aware Policy ✅ [DONE — PR #5]
 - `src/policy.py`: `HindsightAwarePolicy`
 - Policy shaped away from previously-failed modes
 
