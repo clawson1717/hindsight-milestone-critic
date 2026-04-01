@@ -76,7 +76,7 @@ Task Input
 | 5 | Hindsight Experience Store | ✅ [DONE] |
 | 6 | Hindsight-Aware Policy | ✅ [DONE] |
 | 7 | Integration Loop | ⬜ |
-| 8 | CLI Interface | ⬜ |
+| 8 | CLI Interface | ✅ [DONE] |
 | 9 | Integration Tests | ⬜ |
 | 10 | Documentation + Final PR | ⬜ |
 
